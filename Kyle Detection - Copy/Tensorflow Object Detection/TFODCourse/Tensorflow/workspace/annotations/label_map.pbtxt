@@ -1,0 +1,8 @@
+item { 
+	name:'normal'
+	id:1
+}
+item { 
+	name:'asleep'
+	id:2
+}
